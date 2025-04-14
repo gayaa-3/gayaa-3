@@ -9,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri" />
 </p>
 -->
+
+---
+
 ## 📬 Connect with me
 
 <div align="center">
